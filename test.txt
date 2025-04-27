@@ -1,1 +1,10 @@
-This is updated version 3
+=======
+This is updated version 4
+
+git init
+git status
+git add .
+git commit -m "Descriptive message about the commit."
+git log
+.gitignore file
+
