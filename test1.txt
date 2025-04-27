@@ -1,2 +1,6 @@
+
+This is another text file.
+=======
 This is another text file 2
 - version 2
+
